@@ -1,6 +1,6 @@
 {
   "name": "localmsg",
-  "description": "cross browser tab messaging",
+  "description": "deprecated, use browser-msg",
   "homepage": "https://github.com/awwx/meteor-localmsg",
   "author": "Andrew Wilcox",
   "version": "0.0.1",
